@@ -1,5 +1,5 @@
 body {
-    font-family: Arial, sans-serif;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif, sans-serif;
     background-color: #f0f0f0;
     margin: 0;
 }
@@ -15,7 +15,7 @@ section {
     max-width: 800px;
     margin: 20px auto;
     padding: 20px;
-    background-color: blanchedalmond
+    background-color: goldenrod
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
